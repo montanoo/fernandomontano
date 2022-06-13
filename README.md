@@ -2,13 +2,13 @@
 <h3 align="center">A comp sci student from El Salvador!</h3>
 <div align="center"> 
   
-🔭 I’m currently working on **becoming a Frontend developer.**
+🔑 I’m currently working on **becoming a Frontend developer.**
 
-🌱 I’m currently learning **React and Node**
+💻 I’m currently learning **React and Node**
 
 📫 How to reach me: **fernando.montano41@gmail.com**
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center">🔆 Tech Stack</h1>
 
 
 
